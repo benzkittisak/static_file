@@ -1,1 +1,1 @@
-# static_file
+# Static file use for cdn
